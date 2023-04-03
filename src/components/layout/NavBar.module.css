@@ -18,8 +18,13 @@
 .item a {
   color: #fff;
   text-decoration: none;
+  transition: .3s;
+  padding: .7em;
+
 }
 
 .item a:hover {
-  color: #ffbb33;
+  background-color: #ffbb33;
+  color: #222;
+  border-radius: 10%;
 }
