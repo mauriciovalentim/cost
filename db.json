@@ -2,183 +2,91 @@
   "projects": [
     {
       "name": [
-        "Loja de sapatos"
+        "Monkey Fighter"
       ],
       "budget": [
-        "15000"
-      ],
-      "category": {
-        "id": "2",
-        "name": "E-Commerce"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 1
-    },
-    {
-      "name": [
-        "Rodão Manero"
-      ],
-      "budget": [
-        "45900"
-      ],
-      "category": {
-        "id": "2",
-        "name": "E-Commerce"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 2
-    },
-    {
-      "name": [
-        "Frutas pão"
-      ],
-      "budget": [
-        "3000"
-      ],
-      "category": {
-        "id": "2",
-        "name": "E-Commerce"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 3
-    },
-    {
-      "name": [
-        "Roupas"
-      ],
-      "budget": [
-        "7000"
-      ],
-      "category": {
-        "id": "2",
-        "name": "E-Commerce"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 4
-    },
-    {
-      "name": [
-        "Chocomania"
-      ],
-      "budget": [
-        "12000"
-      ],
-      "category": {
-        "id": "2",
-        "name": "E-Commerce"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 5
-    },
-    {
-      "name": [
-        "To rindo a toa"
-      ],
-      "budget": [
-        "250000"
-      ],
-      "category": {
-        "id": "2",
-        "name": "E-Commerce"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 6
-    },
-    {
-      "name": [
-        "bbdc"
-      ],
-      "budget": [
-        "545"
-      ],
-      "category": {
-        "id": "1",
-        "name": "Development"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 7
-    },
-    {
-      "name": [
-        "Mauricio"
-      ],
-      "budget": [
-        "356"
-      ],
-      "category": {
-        "id": "2",
-        "name": "E-Commerce"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 8
-    },
-    {
-      "name": [
-        "Meu Projeto"
-      ],
-      "budget": [
-        "15000"
-      ],
-      "category": {
-        "id": "1",
-        "name": "Development"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 9
-    },
-    {
-      "name": [
-        "Mauricio"
-      ],
-      "budget": [
-        "6582"
+        "32000"
       ],
       "category": {
         "id": "4",
-        "name": "Social Network"
+        "name": "Restaurant"
       },
-      "cost": 0,
-      "servers": [],
-      "id": 10
-    },
-    {
-      "name": [
-        "Recife Game"
+      "cost": 31693,
+      "services": [
+        {
+          "name": "Iniciação Porto Digital",
+          "cost": "5214",
+          "description": "Tanto faz",
+          "id": "b01dc71f-481e-4587-a165-46157937a422"
+        },
+        {
+          "name": "Mauricio",
+          "cost": "6589",
+          "description": "Valor da criação dos modelos 3D",
+          "id": "d6b0ba78-2dfb-4357-91b0-b12d7c8292cd"
+        },
+        {
+          "name": "Lalalag",
+          "cost": "1",
+          "description": "Trando",
+          "id": "6e93871e-5455-469a-a8a5-7621931b908e"
+        },
+        {
+          "name": "3D Models",
+          "cost": "50",
+          "description": "Preço de fabricação dos modelos 3D",
+          "id": "e6b0a8ca-e325-4830-ad6f-bfcd68a30e86"
+        },
+        {
+          "name": "3D Models",
+          "cost": "50",
+          "description": "Preço de fabricação dos modelos 3D",
+          "id": "01b7a8bb-d260-4d8b-be9f-be7e22382fe1"
+        },
+        {
+          "name": "Mauricio",
+          "cost": "5",
+          "description": "Vamo ver",
+          "id": "39e43e1e-258b-448c-a446-0f7ed55622fa"
+        },
+        {
+          "name": "Junior Souza",
+          "cost": "2",
+          "description": "long line",
+          "id": "7858a089-db72-444c-849b-01ee6c7c553a"
+        },
+        {
+          "name": "Junior Souza",
+          "cost": "7",
+          "description": "54",
+          "id": "0bb02010-bd45-4467-9407-478d93453430"
+        },
+        {
+          "name": "Bubble",
+          "cost": "2",
+          "description": "Custo da criação de modelos 3D",
+          "id": "544b4bdd-7519-45ff-bfd0-c243a6b30356"
+        },
+        {
+          "name": "Bubble",
+          "cost": "6",
+          "description": "Tanto faz",
+          "id": "7c4e0d7c-96a6-48e8-955c-6c85009f6877"
+        },
+        {
+          "name": "Lalalag",
+          "cost": "1",
+          "description": "Trando",
+          "id": "cb5fd237-7771-415c-a4a1-61c3cd8814fb"
+        },
+        {
+          "name": "Iniciação Porto Digital",
+          "cost": "20",
+          "description": "Preço de fabricação dos modelos 3D que eu quero testar se consigo quebrar, espero que não, sera que já foi o suficiente? E Agora? E Agora?",
+          "id": "8a826d20-0959-4ada-a278-5bececa3d154"
+        }
       ],
-      "budget": [
-        "15000"
-      ],
-      "category": {
-        "id": "1",
-        "name": "Development"
-      },
-      "cost": 0,
-      "servers": [],
-      "id": 11
-    },
-    {
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "name": [
-        "Iniciação Porto Digital"
-      ],
-      "budget": [
-        "5852"
-      ],
-      "cost": 0,
-      "servers": [],
-      "id": 12
+      "id": 2
     }
   ],
   "categories": [

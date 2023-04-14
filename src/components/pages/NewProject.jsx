@@ -7,7 +7,7 @@ function NewProject() {
   function createPost(project) {
     //Initialize cost and servers
     project.cost = 0;
-    project.servers = [];
+    project.services = [];
     fetch("http://localhost:5000/projects", {
       method: "POST",
       headers: {
