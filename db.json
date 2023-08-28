@@ -11,7 +11,7 @@
         "id": "4",
         "name": "Restaurant"
       },
-      "cost": 31693,
+      "cost": 31700,
       "services": [
         {
           "name": "Iniciação Porto Digital",
@@ -84,6 +84,12 @@
           "cost": "20",
           "description": "Preço de fabricação dos modelos 3D que eu quero testar se consigo quebrar, espero que não, sera que já foi o suficiente? E Agora? E Agora?",
           "id": "8a826d20-0959-4ada-a278-5bececa3d154"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "7",
+          "description": "Este é um serviço de teste",
+          "id": "30b47d58-88fb-4aa2-b653-5f36a7f96b83"
         }
       ],
       "id": 2

@@ -46,10 +46,12 @@ function Projects() {
       .then((resp) => resp.json())
       .then(() => {
         setProjectMessage("Projeto removido com sucesso");
-        setTimeout(() => {setProjectMessage("")}, 3000)
+        setTimeout(() => {
+          setProjectMessage("");
+        }, 3000);
         setProjects(projects.filter((project) => project.id != id));
       })
-      .catch((err) => console.log(err));
+      .catch((err) => console.log(err.state));
   }
   return (
     <div className={styles.project_container}>
